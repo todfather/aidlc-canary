@@ -1,0 +1,8 @@
+README.md
+pyproject.toml
+aidlc_canary.egg-info/PKG-INFO
+aidlc_canary.egg-info/SOURCES.txt
+aidlc_canary.egg-info/dependency_links.txt
+aidlc_canary.egg-info/requires.txt
+aidlc_canary.egg-info/top_level.txt
+tests/test_smoke.py
